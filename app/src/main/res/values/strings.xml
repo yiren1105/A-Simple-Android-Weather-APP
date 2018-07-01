@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="hint">Enter a city...</string>
+    <string name="min">MIN</string>
+    <string name="max">MAX</string>
+    <string name="humidity">HUMIDITY</string>
+    <string name="clouds">CLOUDS</string>
+    <string name="description">Today: Cloudy conditions with 8 m/s winds out of the southeast.</string>
+    <string name="celsius">℃</string>;
+    <string name="percent">%</string>
+
+</resources>
